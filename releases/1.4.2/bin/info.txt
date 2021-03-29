@@ -1,0 +1,1 @@
+This directory is used for "storage"; The script will create and update files regarding the requesting Clients.
