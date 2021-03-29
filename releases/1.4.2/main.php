@@ -459,8 +459,7 @@ final class RateLimiter extends Response {
     public function __destruct () {
         
         ignore_user_abort(false);
-        
-You have made no changes to
+       
     }
     
 }
